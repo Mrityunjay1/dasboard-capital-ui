@@ -38,7 +38,7 @@ const Navbar = () => {
             viewBox="0 0 24 24"
             strokeWidth={1.5}
             stroke="currentColor"
-            className="w-8 h-8 text-black bg-white p-2 rounded-lg"
+            className="w-9 h-9 text-black bg-white p-2 rounded-lg"
           >
             <path
               strokeLinecap="round"
@@ -58,7 +58,7 @@ const Navbar = () => {
             viewBox="0 0 24 24"
             strokeWidth={1.5}
             stroke="currentColor"
-            className="w-8 h-8 text-black bg-white p-2 rounded-lg"
+            className="w-9 h-9 text-black bg-white p-2 rounded-lg"
           >
             <path
               strokeLinecap="round"
@@ -73,7 +73,7 @@ const Navbar = () => {
             viewBox="0 0 24 24"
             strokeWidth={1.5}
             stroke="currentColor"
-            className="w-8 h-8 text-black bg-white p-2 rounded-lg"
+            className="w-9 h-9 text-black bg-white p-2 rounded-lg"
           >
             <path
               strokeLinecap="round"
